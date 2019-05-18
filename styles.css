@@ -1,0 +1,241 @@
+nav {
+    background-color: #C12127;
+    color: rgba(255, 255, 255, 0.8);
+    padding-top: 15px;
+    height: 30px;
+}
+
+nav a {
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+}
+
+.top-links {
+    float: right;
+    padding: 0;
+    margin: 0 20px 0 0;
+}
+
+.top-links li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.top-left {
+    float: left;
+}
+
+.log-in-list li {
+    list-style-type: none;
+}
+
+.log-in-list a {
+    text-decoration: none;
+    color: white;
+}
+
+header {
+    color: white;
+}
+
+.search-bar-logo {
+    background-color: rgb(36, 89, 120);
+    vertical-align: middle;
+    line-height: 50px;
+    padding-left: 10px;
+}
+
+.search-bar-logo img {
+    height: 30px;
+    vertical-align: middle;
+}
+
+.search-bar-logo input {
+    height: 30px;
+}
+
+.search-bar-logo button {
+    height: 34px;
+    width: 34px;
+    color: white;
+    background-color: rgb(31, 82, 111);
+    border-color: rgb(31, 82, 111);
+}
+
+#findpackages {
+    width: 79%;
+    margin-left: 10px;
+    background-color: rgb(31, 82, 111);
+    border: 1px solid rgba(31, 82, 111, 0.0);
+}
+
+.log-in-list {
+    display: inline;
+}
+
+.log-in-list li {
+    display: inline;
+}
+
+#bear-logo {
+    width: 34px;
+    height: 34px;
+}
+
+.sign-up-picture {
+    width: 100%;
+    margin: 0 auto;
+    height: 400px;
+    position: relative;
+    background-image: url("images/city-scape.svg");
+    background-color: rgb(32, 101, 136);
+    text-align: left;
+}
+
+.sign-up-picture p {
+    margin-top: auto;
+    margin-left: 25%;
+    margin-right: auto;
+    width: 30em;
+}
+
+.sign-up-picture h1 {
+    margin-top: auto;
+    margin-left: 25%;
+    margin-right: auto;
+    width: 30em;
+    padding: 120px 120px 5px 0px;
+}
+
+.sign-up-picture a {
+    background-color: rgb(240, 146, 51);
+    color: #fff;
+    text-decoration: none;
+    margin-left: 25%;
+    margin-right: auto;
+    border-radius: 20px;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+
+#npm-for-orgs {
+    color: white;
+    background-color: rgb(39, 53, 71);
+}
+
+#npm-for-orgs img {
+    height: 250px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 25%;
+    margin-right: 25px;
+}
+
+.orgs-div {
+    margin-top: 50px;
+    margin-right: 300px;
+    width: 400px;
+    float: right;
+}
+
+#npm-for-orgs ul {
+    padding-left: 5px;
+    margin-left: 10px;
+}
+
+#npm-for-orgs button {
+    background-color: rgb(203, 56, 55);
+    border-color: rgb(203, 56, 55);
+    color: #fff;
+    text-decoration: none;
+    margin-right: auto;
+    border-radius: 20px;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+
+#npm-for-orgs a {
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+}
+
+#what-is-nmp {
+    background-image: url(images/forklift.svg);
+    background-size: cover;
+    color: white;
+    height: 400px;
+    position: relative;
+}
+
+.install-section {
+    position: absolute;
+    width: 300px;
+    left: 25%;
+    top: 50px;
+}
+
+#what-is-nmp button {
+    background-color: rgb(49, 68, 88);
+    border-color: rgb(49, 68, 88);
+    color: #fff;
+    text-decoration: none;
+    margin-right: auto;
+    border-radius: 20px;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+
+#what-can-you-make {
+    background-color: white;
+}
+
+.center-content {
+    padding-left: 25%;
+    padding-right: 25%;
+    text-align: center;
+}
+
+.color-making h2 {
+    color: rgb(83, 88, 98);
+}
+
+.color-making p {
+    color: rgb(135, 145, 156);
+}
+
+.color-making-options a {
+    color: rgb(208, 74, 73);
+    text-decoration: none;
+}
+
+.color-making-options p {
+    color: rgb(135, 145, 156);
+}
+
+.col {
+    float: left;
+}
+
+.service-box {
+    margin: 50px 5% 0;
+    padding: 20px;
+    text-align: center;
+    width: 20%;
+}
+
+.service-box .img {
+    width: 33%;
+}
+
+.service-box p {
+    width: 215px;
+    text-align: center;
+    margin: 10px auto;
+}
